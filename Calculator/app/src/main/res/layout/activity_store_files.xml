@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".store_files">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="129dp"
+        android:layout_height="116dp"
+        android:layout_marginBottom="478dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" >
+
+    </ImageView>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center|bottom">
+
+
+        <Button
+            android:id="@+id/add_pic"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:text="Add Image"
+            />
+
+        <Button
+            android:id="@+id/takephoto"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:text="Take photo"
+            />
+
+        <Button
+            android:id="@+id/del_pic"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:text="delete Image"
+            />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
