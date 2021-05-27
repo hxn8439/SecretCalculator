@@ -20,11 +20,20 @@ B.	Android Studio IDE (free distribution, Windows based software)
 
 C.	Literature and Online Android development resources (e.g. StackOverFlow, Youtube, Head First Android Development Textbook, and Android Programming: Pushing the Limits textbook)
 
+D.	A physical Android cell phone
+
 # Developer Team
 Kyra Belgica (spaceflowers)- Project Manager.
 
 Hamilton Nguyen (hxn8439)- Software Test Engineer.
 
 Marvin Willington (marvinwel) - Front-end and Back-end Developer.
+
+# DEMO
+https://www.youtube.com/watch?v=E_E79pDgfNY
+
+# COMPILE INSTRUCTIONS
+
+
 
 
