@@ -16,7 +16,7 @@ A.	Computer Hardware- Laptops and desktops (at least a minimum of 5 computer uni
 B.	Android Studio IDE (free distribution, Windows based software)
 C.	Literature and Online Android development resources (e.g. StackOverFlow, Youtube, Head First Android Development Textbook, and Android Programming: Pushing the Limits textbook)
 
-# Developer Teams
+# Developer Team
 Kyra Belgica (spaceflowers)- Project Manager.
 Hamilton Nguyen (hxn8439)- Software Test Engineer.
 Marvin Willington (marvinwel) - Front-end and Back-end Developer.
