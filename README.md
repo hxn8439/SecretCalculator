@@ -6,19 +6,25 @@ Secret calculator is a fully functional basic calculator with a hidden app that 
 
 # Overview and scope of the system
 
-A.	Calculator - Add, subtract, multiply, and divide. The role of this function is to disguise the 	    	app from the secret folder.
+A.	Calculator - Add, subtract, multiply, and divide. The role of this function is to disguise the app from the secret folder.
+
 B.	Passcode - Enter a four-digit passcode to gain access to the hidden app.
+
 C.	Storage  - Transfer pictures, videos, files.
 
 # Resources
 
 A.	Computer Hardware- Laptops and desktops (at least a minimum of 5 computer units)
+
 B.	Android Studio IDE (free distribution, Windows based software)
+
 C.	Literature and Online Android development resources (e.g. StackOverFlow, Youtube, Head First Android Development Textbook, and Android Programming: Pushing the Limits textbook)
 
 # Developer Team
 Kyra Belgica (spaceflowers)- Project Manager.
+
 Hamilton Nguyen (hxn8439)- Software Test Engineer.
+
 Marvin Willington (marvinwel) - Front-end and Back-end Developer.
 
 
