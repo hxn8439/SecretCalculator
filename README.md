@@ -22,7 +22,7 @@ C.	Literature and Online Android development resources (e.g. StackOverFlow, Yout
 
 D.	A physical Android cell phone
 
-# Developer Team
+# Developer Team - fIVETRAN
 Kyra Belgica (spaceflowers)- Project Manager.
 
 Hamilton Nguyen (hxn8439)- Software Test Engineer.
